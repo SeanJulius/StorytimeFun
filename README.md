@@ -12,13 +12,13 @@ Users are prompted to choose their path with the different characters of the sto
 
 ## Setup/Installation Requirements  
   * Open your bash terminal
-  * Clone this repository using: 'git clone https://github.com/ampando/StorytimeFun.git'
+  * Clone this repository using: https://github.com/SeanJulius/StorytimeFun.git
   * Navigate to the "StorytimeFun" folder using 'cd StorytimeFun'
   * Open with VS Code using 'code .' command or another text editor of your choosing
   * Run $npm install to install dependencies
   * Run $npm run build to build environment
   * Run $npm run start to open a web server to view the site
-  * Also viewable on GitHub pages here: https://ampando.github.io/StorytimeFun/
+  * Also viewable on GitHub pages here: https://SeanJulius.github.io/StorytimeFun/
 
 ## Known Bugs
   * If using a windows computer open package.json and confirm that the scripts:start line looks like this:
